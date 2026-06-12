@@ -258,8 +258,10 @@ Designed and developed multiple end-to-end AI/ML systems spanning computer visio
 
 **Google - Cyber Security** 
 
-[![Google](https://img.shields.io/badge/Google-Cybersecurity-blue)](certificates/google-cybersecurity-certificate.pdf)
-(https://www.credly.com/badges/2b292671-1af4-46f8-9778-471dba098919/public_url)
+### Google Certifications
+
+[![Google](https://img.shields.io/badge/Google-Cybersecurity-blue?style=for-the-badge&logo=google)]
+(https://www.credly.com/users/mganeshan)
 
 ---
 
