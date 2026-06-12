@@ -188,7 +188,17 @@ An autonomous AI agent that automatically discovers, filters, ranks, and summari
 
 ---
 
-## 💼 Experience
+**💼 Professional Experience**
+
+**Data Science Intern | GK Creations**
+📍 Sivakasi, Tamil Nadu, India  
+📅 Aug 2024 – Jan 2025
+
+- Engineered end-to-end data preprocessing and EDA pipelines using Python (Pandas, NumPy) on 10,000+ real-world records, reducing analysis turnaround time by ~40%.
+- Built and evaluated machine learning classification models achieving 85%+ accuracy and developed visualization dashboards for business insights.
+- Collaborated with cross-functional teams to deliver structured data workflows, feature engineering pipelines, and business recommendations with zero missed deliverables.
+
+**Skills:** Python • Pandas • NumPy • Machine Learning • Data Analysis • EDA • Data Visualization
 
 ### AI/ML Project Developer *(Academic & Self-Driven Projects)*
 **Independent / Academic**
@@ -226,26 +236,30 @@ Designed and developed multiple end-to-end AI/ML systems spanning computer visio
 
 
 
-**NPTEL**
+**NPTEL Data Analytics with Python**
 
 [![NPTEL](https://img.shields.io/badge/NPTEL-Data%20Analytics%20Using%20Python%20(12%20Weeks)-blueviolet)](https://drive.google.com/file/d/130SQA-5DAuhMDrIXpwChvUn-6SoV7L2m/view?usp=drive_link)
 
-###Infosys
+**Infosys Robotic Process Automation**
 
 [![Infosys](https://img.shields.io/badge/Infosys-Robotic%20Process%20Automation-blueviolet)](https://drive.google.com/file/d/1nj_2_7MyQIqWE2riUNhbSJTAMGVOYItS/view?usp=drive_link)
 
-### UiPath
+**UiPath Professional Automation Developer**
 
 [![UiPath](https://img.shields.io/badge/UiPath-Automation%20Developer%20Associate-orange)](https://drive.google.com/file/d/15j0a8tY4mrWsNgiEy1N7f86nMTjWxwU6/view?usp=drive_link)
 
-###HP
+**HP Data Science & Analytics**
 
 [![HP Foundation](https://img.shields.io/badge/HP%20Foundation-Data%20Science%20%26%20Analytics-purple)](https://drive.google.com/file/d/1cQt0vVWbcCLoMFcv37RmwKT7DZNAiRh4/view?usp=drive_link)
 
-### IBM
+**IBM - GenAI Fundamentals & Foundations**
 
 [![IBM](https://img.shields.io/badge/IBM-GenAI%20Foundations%20%26%20Fundamentals-blueviolet)](https://drive.google.com/file/d/1IYaAb9eBmDTzFCD7_2W5zOjKE-kmKtQ4/view?usp=drive_link)
 
+**Google - Cyber Security** 
+
+[![Google](https://img.shields.io/badge/Google-Cybersecurity-blue)](certificates/google-cybersecurity-certificate.pdf)
+(https://www.credly.com/badges/2b292671-1af4-46f8-9778-471dba098919/public_url)
 
 ---
 
