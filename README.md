@@ -7,7 +7,7 @@
 <br/>
 
 ![Education](https://img.shields.io/badge/B.Tech-AI%20%26%20Data%20Science-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
-![Location](https://img.shields.io/badge/Location-India-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Location](https://img.shields.io/badge/_Location-Tenkasi,_Tamil_Nadu-blueviolet)](https://maps.google.com/?q=Tenkasi,Tamil+Nadu,India 627855)
 
 <br/>
 
