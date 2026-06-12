@@ -256,11 +256,6 @@ Designed and developed multiple end-to-end AI/ML systems spanning computer visio
 
 [![IBM](https://img.shields.io/badge/IBM-GenAI%20Foundations%20%26%20Fundamentals-blueviolet)](https://drive.google.com/file/d/1IYaAb9eBmDTzFCD7_2W5zOjKE-kmKtQ4/view?usp=drive_link)
 
-**Google - Cyber Security** 
-
-[![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity%20Professional%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white)]
-(https://www.credly.com/users/mganeshan)
-
 ---
 
 ## 📊 GitHub Analytics
