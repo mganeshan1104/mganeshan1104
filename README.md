@@ -216,7 +216,7 @@ Designed and developed multiple end-to-end AI/ML systems spanning computer visio
 | 🎓 **B.Tech – AI & Data Science** | Specialized academic focus on AI/ML and applied data systems |
 | 🤖 **Built Production-Grade AI Agent** | Achieved ~70% reduction in irrelevant outputs via prompt optimization |
 | 🚑 **Real-Time CV System** | Developed a functioning AI-based emergency traffic prioritization system |
-| 🎯 **Transformer-Based Detection** | Implemented and trained custom DETR object detection model |
+| 🎯 **Transformer-Based Detection** | Implemented and trained a custom DETR object detection model |
 
 </div>
 
@@ -224,22 +224,28 @@ Designed and developed multiple end-to-end AI/ML systems spanning computer visio
 
 ## 📜 Certifications
 
-**AWS**
-*(In Progress)*
 
-**Oracle / NPTEL**
 
-![NPTEL](https://img.shields.io/badge/NPTEL-Data%20Analytics%20Using%20Python%20(12%20Weeks)-7C3AED?style=for-the-badge&logo=googlescholar&logoColor=white)
+**NPTEL**
 
-**Cisco / Infosys**
+[![NPTEL](https://img.shields.io/badge/NPTEL-Data%20Analytics%20Using%20Python%20(12%20Weeks)-blueviolet)](https://drive.google.com/file/d/130SQA-5DAuhMDrIXpwChvUn-6SoV7L2m/view?usp=drive_link)
 
-![Infosys](https://img.shields.io/badge/Infosys%20Foundation-Robotic%20Process%20Automation-6366F1?style=for-the-badge&logo=infosys&logoColor=white)
+###Infosys
 
-**Other Certifications**
+[![Infosys](https://img.shields.io/badge/Infosys-Robotic%20Process%20Automation-blueviolet)](https://drive.google.com/file/d/1nj_2_7MyQIqWE2riUNhbSJTAMGVOYItS/view?usp=drive_link)
 
-![UiPath](https://img.shields.io/badge/UiPath-Automation%20Developer%20Associate-FA4616?style=for-the-badge&logo=uipath&logoColor=white)
-![HP](https://img.shields.io/badge/HP%20Foundation-Data%20Science%20%26%20Analytics-8B5CF6?style=for-the-badge&logo=hp&logoColor=white)
-![IBM](https://img.shields.io/badge/IBM-GenAI%20Foundations%20%26%20Fundamentals-4C1D95?style=for-the-badge&logo=ibm&logoColor=white)
+### UiPath
+
+[![UiPath](https://img.shields.io/badge/UiPath-Automation%20Developer%20Associate-orange)](https://drive.google.com/file/d/15j0a8tY4mrWsNgiEy1N7f86nMTjWxwU6/view?usp=drive_link)
+
+###HP
+
+[![HP Foundation](https://img.shields.io/badge/HP%20Foundation-Data%20Science%20%26%20Analytics-purple)](https://drive.google.com/file/d/1cQt0vVWbcCLoMFcv37RmwKT7DZNAiRh4/view?usp=drive_link)
+
+### IBM
+
+[![IBM](https://img.shields.io/badge/IBM-GenAI%20Foundations%20%26%20Fundamentals-blueviolet)](https://drive.google.com/file/d/1IYaAb9eBmDTzFCD7_2W5zOjKE-kmKtQ4/view?usp=drive_link)
+
 
 ---
 
