@@ -19,8 +19,7 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mganeshan1104&color=8b5cf6&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/mganeshan1104?color=7c3aed&style=for-the-badge&label=FOLLOWERS)
-![Stars](https://img.shields.io/github/stars/mganeshan1104?color=6366f1&style=for-the-badge&label=STARS)
+
 
 </div>
 
